@@ -1,0 +1,28 @@
+nautilus-image-tools (0.0.3-0extras15.10.7) wily; urgency=medium
+
+  * Removed threading
+  * Fixed some bugs
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 02 May 2017 07:02:51 +0200
+
+nautilus-image-tools (0.0.2-0extras14.04.0) trusty; urgency=low
+
+  * Updated to Trusty Tahr
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sun, 09 Mar 2014 19:51:20 +0100
+
+nautilus-image-tools (0.0.2-0extras13.10.0ubuntu0) saucy; urgency=low
+
+  * Added enhance menu option
+  * Added dialog with preview for vintage
+  * Added dialog with preview for watermark
+  * Improved progress dialog
+  * Added normal and hour cursor while operations
+
+ -- Lorenzo <atareao_s@saucy>  Sun, 01 Dec 2013 20:37:06 +0100
+
+nautilus-image-tools (0.0.1-0extras13.10.0) saucy; urgency=low
+
+  * First version
+
+ -- Lorenzo <atareao_s@saucy>  Sun, 24 Nov 2013 13:48:04 +0100
